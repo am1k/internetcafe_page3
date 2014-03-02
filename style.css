@@ -77,6 +77,9 @@ body {
     display: inline-block;
     margin: -2px;
 }
+.menu li span a {
+    color: #2ab5ba;
+}
 .menu li:first-child:hover {
     display: inline-block;
     border: 1px solid #fff;
